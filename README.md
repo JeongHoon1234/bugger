@@ -11,3 +11,4 @@
 ---
 ### 팀 url
 - **세븐일레븐** : https://github.com/Seven-Eleven-team/SevenEleven
+- **인텔리제이조** : https://github.com/kdt-financial-team2/kdt-team2-project
